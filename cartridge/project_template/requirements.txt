@@ -1,2 +1,2 @@
-Mezzanine==4.3.1
+Mezzanine==6.1.1
 Cartridge==0.13.0
